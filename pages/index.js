@@ -18,6 +18,7 @@ function Home(){
         <h1>Perserverar, se você ganhar todos ganham junto, inclusive o desejo de morar com o seu amor</h1>
         <br></br>
         <h1>Oi mo tinhamo tim amo tim amor bem muitao muitao você é a melhor de todas manda beijo</h1>
+        <h2>Yahonan e Isabela - Melhores namorados do mundo todo</h2>
     </div>
     )
 };
