@@ -1,0 +1,24 @@
+{
+  "name": "clone-tabnews-yahonan",
+  "version": "1.0.0",
+  "description": "Um projeto para melhorar profissionalmente buscando aprendizado continuo",
+  "homepage": "https://github.com/Yahonan/clone-tabnews-yahonan#readme",
+  "bugs": {
+    "url": "https://github.com/Yahonan/clone-tabnews-yahonan/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yahonan/clone-tabnews-yahonan.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
